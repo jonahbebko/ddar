@@ -4,4 +4,4 @@ errors.txt
 traceback.txt
 game/firstrun
 *.bak
-*.rpc
+*.rpyc
