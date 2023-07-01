@@ -1,7 +1,9 @@
 .vscode
+cache
 log.txt
 errors.txt
 traceback.txt
 game/firstrun
 *.bak
 *.rpyc
+*.rpymc
